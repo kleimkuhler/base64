@@ -1,0 +1,6 @@
+[package]
+name = "base64"
+version = "0.1.0"
+authors = ["Kevin Leimkuhler <me@kleimkuhler.com>"]
+
+[dependencies]
